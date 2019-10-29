@@ -3,6 +3,9 @@ LTCSharp
 
 .NET wrapper for libltc for decoding/encoding linear time code audio signals
 
+Current IDE version  
+Visual Studio 2017 Community
+
 License
 -------
 LTCSharp is released under MIT license http://opensource.org/licenses/MIT
