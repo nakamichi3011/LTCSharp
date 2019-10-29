@@ -25,12 +25,12 @@
 
 #ifdef _MSC_VER
 	#include <limits>
-	#define INFINITY std::numeric_limits<double>::max();
-	#ifndef rint
-		float rint(float input) {
-			return floor(input + 0.5f);
-		}
-	#endif
+	//#define INFINITY std::numeric_limits<double>::max();
+	//#ifndef rint
+	//	float rint(float input) {
+	//		return floor(input + 0.5f);
+	//	}
+	//#endif
 #endif
 
 /** turn a numeric literal into a hex constant
